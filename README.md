@@ -28,8 +28,8 @@ Learning Cloud Technologies through AWS
 - 1달 주기
   - 3주 스터디 > 마지막 주 실습
   - 월 초에 실습 콘텐츠 주제 선정 - 스터디원이 다수결로 공부하고 싶은 주제 선정할 예정
-   **[실습 콘텐츠]**
-  - [AWS Workshop](https://awsworkshop.io/)
+   -**[실습 콘텐츠]**
+     - [AWS Workshop](https://awsworkshop.io/)
 - 핸즈온 발표
   - 4, 5, 6월 스터디 내에서 실습을 진행하다가 이후 실습 발표는 부산 소모임(AWSKRUG)에서 핸즈온 발표 고려중
     - AWS 소모임에 대해 알아보기 : [AWSKRUG](https://awskrug.github.io/)
