@@ -31,10 +31,17 @@ Learning Cloud Technologies through AWS
    - **[실습 콘텐츠]**
      - [AWS Workshop](https://awsworkshop.io/)
   - 스터디 : 지정한 콘텐츠에 알맞은 AWS 기초 지식을 공부하여 블로깅
-  - 
-- 핸즈온 발표
-  - 4, 5, 6월 스터디 내에서 실습을 진행하다가 이후 실습 발표는 부산 소모임(AWSKRUG)에서 핸즈온 발표 고려중
-    - AWS 소모임에 대해 알아보기 : [AWSKRUG](https://awskrug.github.io/)
+  - 스터디 회고(개인) : 스터디 내용 발표 전 날, 회고 내용 블로그에 업로드
+  - 스터디 내용 발표 : 매 주 1명 - (in WhaleOn(웨일온) or Zoom)
+                      - 발표 내용 녹화하여 깃허브 업로드 예정
+                      - 발표 자료는 블로그 내용
+- 핸즈온 발표 (오프라인)
+   -[핸즈온에 대해 알아보기](https://aws.amazon.com/ko/it-pro/hands-on/?it-pro-content-all.sort-by=item.additionalFields.lastUpdated&it-pro-content-all.sort-order=desc&awsf.it-pro-content-category=*all&awsf.it-pro-content-level=*all&awsf.it-pro-content-type=content-type%23video)   
+  - 4, 5, 6월 스터디 내에서 실습을 진행하다가 이후 일반인을 대상으로 실습 발표 예정
+      - 1) 부산 AWS 소모임(AWSKRUG)에서 핸즈온 발표 고려중
+          - AWS 소모임에 대해 알아보기 : [AWSKRUG](https://awskrug.github.io/)
+      - 2) 동아대 학생 대상
+      - 3) 넓은 범위로 AWS에 관심있는 부산시 대학생&일반인 고려중
 
 
 ## 스터디 규칙
