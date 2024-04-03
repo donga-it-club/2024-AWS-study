@@ -26,10 +26,12 @@ Learning Cloud Technologies through AWS
   - [AWS Educate 계정 사용법](https://blog.naver.com/chgy2131/222026236395)
   - [AWS Workshop 진행 사이트](https://workshops.aws/)
 - 1달 주기 (주로 온라인 / 필요에 따라 대면도 가능)
-  - 3주 스터디 > 마지막 주 실습
+  - 3주 스터디 > 마지막 주 실습 
   - 월 초에 실습 콘텐츠 주제 선정 - 스터디원이 다수결로 공부하고 싶은 주제 선정할 예정
    - **[실습 콘텐츠]**
      - [AWS Workshop](https://awsworkshop.io/)
+  - 스터디 : 지정한 콘텐츠에 알맞은 AWS 기초 지식을 공부하여 블로깅
+  - 
 - 핸즈온 발표
   - 4, 5, 6월 스터디 내에서 실습을 진행하다가 이후 실습 발표는 부산 소모임(AWSKRUG)에서 핸즈온 발표 고려중
     - AWS 소모임에 대해 알아보기 : [AWSKRUG](https://awskrug.github.io/)
