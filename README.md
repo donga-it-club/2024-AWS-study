@@ -1,6 +1,8 @@
 # 2024-AWS-study
 Learning Cloud Technologies through AWS
 
+- [스터디 지원서 작성](https://forms.gle/HrFgwNet92czGpvHA)
+
 ## 스터디 참여 권장자
 - **AWS에 대해 공부해보고 싶은 분**
 - 클라우드 서비스에 관심있는 분
