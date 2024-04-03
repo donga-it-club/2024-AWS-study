@@ -11,17 +11,15 @@ Learning Cloud Technologies through AWS
 
 
 ## 스터디 목표
-* 순서는 미정입니다.
-
-  - 스터디원의 80% 이상이 핸즈온 오너 진행 경험 쌓기
-  - AWS 스터디 내용을 토대로 포트폴리오 작성
-  - AWS 자격증 취득
-  - (스터디원 모집 이후, 실습 과정 진행 후에 방학 중에 자격증 과정 진행 예정 -> 아래의 자격증 종류 중 1택)
-    - AWS Certified Cloud Practitioner, AWS Certified - Associate 중 택 1
-      - [AWS 자격증 설명 링크](https://aws.amazon.com/ko/certification/?nc2=sb_ce_co)
-        (자격증 비용은 응시 당 150USD로 적은 돈이 아니기 때문에 응시 여부는 자유입니다.)
-        [AWS 자격증 공부 방법 및 시험 신청](https://blog.naver.com/develop-life/223346458178)
-        - 해당 방법을 스터디로 다같이 진행할 생각입니다.
+- 스터디원의 80% 이상이 핸즈온 오너 진행 경험 쌓기
+- AWS 스터디 내용을 토대로 포트폴리오 작성
+- AWS 자격증 취득
+- (스터디원 모집 이후, 실습 과정 진행 후에 방학 중에 자격증 과정 진행 예정 -> 아래의 자격증 종류 중 1택)
+   - AWS Certified Cloud Practitioner, AWS Certified - Associate 중 택 1
+     - [AWS 자격증 설명 링크](https://aws.amazon.com/ko/certification/?nc2=sb_ce_co)
+       (자격증 비용은 응시 당 150USD로 적은 돈이 아니기 때문에 응시 여부는 자유입니다.)
+       [AWS 자격증 공부 방법 및 시험 신청](https://blog.naver.com/develop-life/223346458178)
+       - 해당 방법을 스터디로 다같이 진행할 생각입니다.
 
 ## 스터디 방식
 - AWS Educate 계정 사용 예정
