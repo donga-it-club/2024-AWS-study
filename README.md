@@ -51,6 +51,11 @@ Learning Cloud Technologies through AWS
 - 추후 결정할 예정
 - 진행 과정 기록 : [Summary of AWS study process](https://github.com/seonae-j/2024-AWS-study/wiki/Summary-of-AWS-study-process)
 
+## 기타 유의사항
+- 최소 3개월 이상 진행 예정
+- 스터디 진행 시 시험기간도 고려하여 일정 계획 예정
+- 핸즈온 및 자격증 과정은 방학에 진행 고려중
+
 ## AWS 스터디 시, 도움이 되는 자료모음
 - 도현님 Github : [AWS 스터디 자료](http://bit.ly/saaguide)
 - AWS Github : [AWS Github](https://github.com/aws)
