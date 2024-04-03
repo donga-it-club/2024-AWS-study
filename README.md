@@ -46,7 +46,7 @@ Learning Cloud Technologies through AWS
 
 ## 스터디 규칙
 - 추후 결정할 예정
-- 진행 과정 기록 : [Summary of AWS study process - wiki](https://github.com/seonae-j/2024-AWS-Study/wiki/)
+- 진행 과정 기록 : [Summary of AWS study process - wiki](https://github.com/seonae-j/2024-AWS-study/wiki/Summary-of-AWS-study-process)
 
 ## AWS 스터디 시, 도움이 되는 자료모음
 - 도현님 Github : [AWS 스터디 자료](http://bit.ly/saaguide)
