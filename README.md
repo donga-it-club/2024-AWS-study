@@ -22,7 +22,8 @@ Learning Cloud Technologies through AWS
 
 
 ## 스터디 방식
-- AWS Educate 계정 사용 예정 [AWS Educate 계정 사용법](https://blog.naver.com/chgy2131/222026236395)
+- AWS Educate 계정 사용 예정
+  - [AWS Educate 계정 사용법](https://blog.naver.com/chgy2131/222026236395)
 - [AWS Workshop 진행 사이트](https://workshops.aws/)
 - 1달 간 
 
