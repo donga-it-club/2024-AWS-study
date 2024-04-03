@@ -39,5 +39,5 @@ Learning Cloud Technologies through AWS
 - 추후 결정할 예정
 
 ## AWS 스터디 시, 도움이 되는 자료모음
-도현님 Github : [AWS 스터디 자료](http://bit.ly/saaguide)
-AWS Github : [AWS Github](https://github.com/aws)
+- 도현님 Github : [AWS 스터디 자료](http://bit.ly/saaguide)
+- AWS Github : [AWS Github](https://github.com/aws)
