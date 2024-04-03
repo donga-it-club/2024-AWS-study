@@ -3,7 +3,7 @@ Learning Cloud Technologies through AWS
 
 ## 스터디 목표
 - AWS
-- [AWS Certified Solutions Architect - Associate 자격증](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/?ch=tile&tile=getstarted)
+- [AWS Certified Solutions Architect - Associate 자격증 설명](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/?ch=tile&tile=getstarted)
 
 ## 스터디 목적
 
