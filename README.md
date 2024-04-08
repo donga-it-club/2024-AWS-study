@@ -1,7 +1,7 @@
 # 2024-AWS-study
 Learning Cloud Technologies through AWS
 
-- [스터디 지원서 작성](https://forms.gle/HrFgwNet92czGpvHA)
+- [스터디 노션 관리 페이지](https://auspicious-voyage-835.notion.site/2024-AWS-Study-874092e730bc465f8f0ed1160ad5822e?pvs=4)
 
 ## 스터디 참여 권장자
 - **AWS에 대해 공부해보고 싶은 분**
