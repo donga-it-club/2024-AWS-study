@@ -20,4 +20,4 @@ Learning Cloud Technologies through AWS
 
 ## 1. 1차- 05/01 (수) 19:00
 자료 : [1차 정기 모임](https://auspicious-voyage-835.notion.site/1-c8de6db5f74b4721bd0f0718e815acf2?pvs=4)
-
+참석자 : 
