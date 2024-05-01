@@ -5,7 +5,7 @@ Learning Cloud Technologies through AWS
 - [스터디 개요 확인-wiki](https://github.com/seonae-j/2024-AWS-study/wiki/Summary)
 
 ## 스터디 규칙
-- 스터디 끝날 때 참석율 + 과제 완료율을 합쳐서 1등인 사람에게 치킨 기프티콘
+- 스터디 끝날 때 참석율 + 과제 완료율을 합쳐서 1등인 사람에게 치킨 기프티콘 (+a 생각중)
 - 시험 기간 동안은 스터디 활동 중단
 - [스터디 참여율 계산법](https://auspicious-voyage-835.notion.site/a055ace3e4ac4b049a0447634340c7c4?pvs=4)
 
