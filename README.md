@@ -15,7 +15,7 @@ Learning Cloud Technologies through AWS
 ## 0. OT - 04/10 (수) 19:00
 자료 : [OT](https://auspicious-voyage-835.notion.site/OT-04-10-19-00-e040c4ca11a9474a8fd4c037b6d48ef9?pvs=4)
 
-참석자 : 장선애, 김지영, 정채영, 김혜원, 한승윤, 배금빈, 최원빈
+참석자 : 장선애, 김지영, 정채영, 김혜원, 한승윤, 배금빈, 최원빈 + 도현님
 
 
 ## 1. 1차- 05/01 (수) 19:00
