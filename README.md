@@ -22,8 +22,8 @@ Learning Cloud Technologies through AWS
 모임 자료 : [1차 정기 모임](https://auspicious-voyage-835.notion.site/1-c8de6db5f74b4721bd0f0718e815acf2?pvs=4)
 
 참석자 : 장선애, 김지영, 정채영, 김혜원, 한승윤, 배금빈, 최원빈
-발표 자료 (AWS 기본 내용 모듈 중 1개 지정해서 블로깅 후 짧게 발표)
 
+발표 자료 (AWS 기본 내용 모듈 중 1개 지정해서 블로깅 후 짧게 발표)
 - [장선애-S3](https://sundery.tistory.com/91)
 - [김지영-EC2](https://jyxung.tistory.com/2)
 - [정채영-Networking](https://lu-cia.tistory.com/2)
