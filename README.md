@@ -2,7 +2,7 @@
 Learning Cloud Technologies through AWS
 
 - [⭐스터디 노션 관리 페이지](https://auspicious-voyage-835.notion.site/2024-AWS-Study-874092e730bc465f8f0ed1160ad5822e?pvs=4)
-- [스터디 개요 확인-wiki](https://github.com/seonae-j/2024-AWS-study/wiki/[Home]SummaryofAWSstudyprocess)
+- [스터디 개요 확인-wiki](https://github.com/seonae-j/2024-AWS-study/wiki/Summary)
 
 # 스터디 진행 내용
 
