@@ -4,6 +4,8 @@ Learning Cloud Technologies through AWS
 - [⭐스터디 노션 관리 페이지](https://auspicious-voyage-835.notion.site/2024-AWS-Study-874092e730bc465f8f0ed1160ad5822e?pvs=4)
 - [스터디 개요 확인-wiki](https://github.com/seonae-j/2024-AWS-study/wiki/Summary)
 
+### 스터디 규칙
+
 # 스터디 진행 내용
 
 ## 0. OT - 04/10 (수) 19:00
@@ -14,3 +16,4 @@ Learning Cloud Technologies through AWS
 
 ## 1. 1차- 05/01 (수) 19:00
 자료 : [1차 정기 모임](https://auspicious-voyage-835.notion.site/1-c8de6db5f74b4721bd0f0718e815acf2?pvs=4)
+
