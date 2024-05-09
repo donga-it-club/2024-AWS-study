@@ -36,9 +36,7 @@ Learning Cloud Technologies through AWS
 참석자 : 장선애, 김지영, 정채영, 김혜원, 한승윤, 배금빈, 최원빈
 
 발표자 : 한승윤(Storage), 정채영(Security)
-발표자료
-- [Storage](https://seungyoon1786.tistory.com/6)
-- [Security](https://lu-cia.tistory.com/5)
-- 발표영상
-- [Storage](https://drive.google.com/file/d/1x4jctGbZ61fND50Wy9rJ6AlEVtQS_5l1/view?usp=sharing)
-- [Security](https://drive.google.com/file/d/1WysV9OK8pEhdRuDWfOpn8okfCOPWIXV7/view?usp=sharing)
+- [Storage 발표자료](https://seungyoon1786.tistory.com/6), [Storage 발표영상](https://drive.google.com/file/d/1x4jctGbZ61fND50Wy9rJ6AlEVtQS_5l1/view?usp=sharing)
+- [Security 발표자료](https://lu-cia.tistory.com/5), [Security 발표영상](https://drive.google.com/file/d/1WysV9OK8pEhdRuDWfOpn8okfCOPWIXV7/view?usp=sharing)
+
+- 
