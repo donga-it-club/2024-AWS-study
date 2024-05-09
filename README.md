@@ -39,4 +39,3 @@ Learning Cloud Technologies through AWS
 - [Storage 발표자료](https://seungyoon1786.tistory.com/6), [Storage 발표영상](https://drive.google.com/file/d/1x4jctGbZ61fND50Wy9rJ6AlEVtQS_5l1/view?usp=sharing)
 - [Security 발표자료](https://lu-cia.tistory.com/5), [Security 발표영상](https://drive.google.com/file/d/1WysV9OK8pEhdRuDWfOpn8okfCOPWIXV7/view?usp=sharing)
 
-- 
