@@ -32,7 +32,7 @@ Learning Cloud Technologies through AWS
 - [배금빈-모듈 3 고가용성, 리전 개](https://blog.naver.com/binny1204/223433185189)
 - [최원빈-웹 서비스](https://worsing12.tistory.com/11)
 
-### 1차 활동 회고
+### 1-1. 1차 활동 회고
 
 
 ## 2. 2차- 05/08 (수) 19:00
