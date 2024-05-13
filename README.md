@@ -33,7 +33,7 @@ Learning Cloud Technologies through AWS
 - [최원빈-웹 서비스](https://worsing12.tistory.com/11)
 
 ### 1-1. 1차 활동 회고
-[images1](./images/1.png)
+![images1](./images/1.png)
 
 
 ## 2. 2차- 05/08 (수) 19:00
