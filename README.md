@@ -34,6 +34,8 @@ Learning Cloud Technologies through AWS
 
 ### 1-1. 1차 활동 회고
 ![images1](./images/1.png)
+![images2](./images/2.png)
+![images3](./images/3.png)
 
 
 ## 2. 2차- 05/08 (수) 19:00
