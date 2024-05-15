@@ -29,7 +29,7 @@ Learning Cloud Technologies through AWS
 - [정채영-Networking](https://lu-cia.tistory.com/2)
 - [김혜원-모듈 5 전체](https://hyeoni-study.tistory.com/2)
 - [한승윤-EC2 요금](https://seungyoon1786.tistory.com/4)
-- [배금빈-모듈 3 고가용성, 리전 개](https://blog.naver.com/binny1204/223433185189)
+- [배금빈-모듈 3 고가용성, 리전 개요](https://blog.naver.com/binny1204/223433185189)
 - [최원빈-웹 서비스](https://worsing12.tistory.com/11)
 
 ### 1-1. 1차 활동 회고
