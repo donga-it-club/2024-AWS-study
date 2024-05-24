@@ -52,3 +52,10 @@ Learning Cloud Technologies through AWS
 
 - AWS Skillbuilder 구독 및 피드백을 위한 사전안내
 - AWS Skillbuilder 구독하기 
+
+## 4. 4차- 05/22 (수) 19:00
+
+참석자 : 장선애, 김지영, 정채영, 김혜원, 한승윤, 배금빈, 최원빈
+
+- Skillbuilder 사용 장/단점 공유
+- Skillbuilder와 Educate와의 차이점 의견 공유
