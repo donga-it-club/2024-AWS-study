@@ -54,6 +54,7 @@ Learning Cloud Technologies through AWS
 - AWS Skillbuilder 구독하기 
 
 ## 4. 4차- 05/22 (수) 19:00
+모임 자료 : [4차 정기 모임](https://auspicious-voyage-835.notion.site/4-55bf39d20b75484da1fcd14149ccc83a?pvs=4)
 
 참석자 : 장선애, 김지영, 정채영, 김혜원, 한승윤, 배금빈, 최원빈
 
