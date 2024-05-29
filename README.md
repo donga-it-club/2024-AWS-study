@@ -60,3 +60,10 @@ Learning Cloud Technologies through AWS
 
 - Skillbuilder 사용 장/단점 공유
 - Skillbuilder와 Educate와의 차이점 의견 공유
+
+## 5. 5차- 05/29 (수) 19:00
+참석자 : 장선애, 김지영, 정채영, 김혜원, 한승윤, 배금빈, 최원빈
+
+발표자 : 최원빈(Compute), 김혜원(Databases)
+- [Compute 발표자료](https://worsing12.tistory.com/13), [Compute 발표영상](https://drive.google.com/file/d/1L_jtisqmFAJ8O6D1KPjktpnq9SdSf3wM/view?usp=sharing)
+- [Databases 발표자료](https://hyeoni-study.tistory.com/9), [Databases 발표영상](https://drive.google.com/file/d/18GbDnI14LR8JCOmblEiLEU9H1Lw7ya8r/view?usp=sharing)
