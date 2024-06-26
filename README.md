@@ -75,3 +75,13 @@ Learning Cloud Technologies through AWS
 - [Networking 발표자료](https://sundery.tistory.com/96), [Networking 발표영상](https://drive.google.com/file/d/1L_jtisqmFAJ8O6D1KPjktpnq9SdSf3wM/view?usp=sharing)
 - [Cloud Operations 발표자료](https://jyxung.tistory.com/7), [Cloud Operations 발표영상](https://drive.google.com/file/d/18GbDnI14LR8JCOmblEiLEU9H1Lw7ya8r/view?usp=sharing)
 - [Serverless 발표자료](https://geumbin1204.notion.site/7-6b17b345183344b3b6a62b09b595700a), [Serverless 발표영상](https://drive.google.com/file/d/18GbDnI14LR8JCOmblEiLEU9H1Lw7ya8r/view?usp=sharing)
+
+## 7. 7차- 06/26 (수) 19:00
+모임 자료 : [7차 정기 모임](https://auspicious-voyage-835.notion.site/7-a4f5de79758b4ad7b2778ca06ebe4e90?pvs=4)
+
+참석자 : 장선애, 김지영, 김혜원, 한승윤, 배금빈
+
+- 앞으로 Study의 진행 방향
+- Udemy 강의를 통한 자격증 스터디 방향
+- 발표를 진행할 수 있는 실습 콘텐츠 지정 설명
+
