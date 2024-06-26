@@ -74,7 +74,7 @@ Learning Cloud Technologies through AWS
 
 발표자 : 장선애(Networking), 김지영(Cloud Operations), 배금빈(Serverless)
 - [Networking 발표자료](https://sundery.tistory.com/96), [Networking 발표영상](https://drive.google.com/file/d/1VkAhUUxA2cT19R9-5X60lnGFGPQaZbXj/view?usp=drive_link)
-- [Cloud Operations 발표자료](https://jyxung.tistory.com/7), [Cloud Operations 발표영상](https://drive.google.com/file/d/18GbDnI14LR8JCOmblEiLEU9H1Lw7ya8r/view?usp=sharing)
+- [Cloud Operations 발표자료](https://jyxung.tistory.com/7), [Cloud Operations 발표영상](https://drive.google.com/file/d/1pvrH8m41OyPNC5XxS5RFFGPpoe2MGoO-/view?usp=drive_link)
 - [Serverless 발표자료](https://geumbin1204.notion.site/7-6b17b345183344b3b6a62b09b595700a), [Serverless 발표영상](https://drive.google.com/file/d/1itvWZ9qf9N4WiIXRe1EJrzib0T5BozT5/view?usp=drive_link)
 
 ## 7. 7차- 06/26 (수) 19:00
