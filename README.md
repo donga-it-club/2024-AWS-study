@@ -3,6 +3,7 @@ Learning Cloud Technologies through AWS
 
 - [⭐스터디 노션 관리 페이지](https://auspicious-voyage-835.notion.site/2024-AWS-Study-874092e730bc465f8f0ed1160ad5822e?pvs=4)
 - [스터디 개요 확인-wiki](https://github.com/seonae-j/2024-AWS-study/wiki/Summary)
+- [AWS 자격증 학습율 확인](https://auspicious-voyage-835.notion.site/b4442be3f13d44d9abcbb3f8360413a1?v=cac27fac85544232bb0ec8871a1153cb&pvs=4)
 
 ## 스터디 규칙
 - 스터디 끝날 때 참석율 + 과제 완료율을 합쳐서 1등인 사람에게 치킨 기프티콘 (+a 생각중)
