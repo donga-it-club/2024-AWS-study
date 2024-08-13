@@ -129,7 +129,7 @@ Learning Cloud Technologies through AWS
 - 디스코드 화면공유를 통한 공부상황 공유
 - 실습으로 진행하고 싶은 콘텐츠 작성 - [AWS 실습 희망 콘텐츠 작성](https://auspicious-voyage-835.notion.site/AWS-437af746006f42d4bf1500e527d36f2f?pvs=4)
 
-  ## 13. 13차- 08/07 (수) 19:00
+## 13. 13차- 08/07 (수) 19:00
 참석자 : 장선애, 김지영, 정채영, 김혜원, 한승윤, 배금빈
 
 - AWS 자격증 유데미 공부 (5명)
