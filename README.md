@@ -53,12 +53,6 @@ Learning Cloud Technologies through AWS
 - [배금빈-모듈 3 고가용성, 리전 개요](https://blog.naver.com/binny1204/223433185189)
 - [최원빈-웹 서비스](https://worsing12.tistory.com/11)
 
-### 1-1. 1차 활동 회고
-![images1](./images/1.png)
-![images2](./images/2.png)
-![images3](./images/3.png)
-
-
 ## 2. 2차- 05/08 (수) 19:00
 참석자 : 장선애, 김지영, 정채영, 김혜원, 한승윤, 배금빈, 최원빈
 
